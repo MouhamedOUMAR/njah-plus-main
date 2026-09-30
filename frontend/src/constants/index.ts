@@ -8,9 +8,9 @@ export const APP_DESCRIPTION = 'Plateforme d\'apprentissage de l\'anglais pour l
 
 export const BAC_EXAM_DATE = new Date('2026-06-15')
 
-export const SUPPORT_WHATSAPP = '41757591'
-export const SUPPORT_WHATSAPP_DISPLAY = '41 75 75 91'
-export const SUPPORT_WHATSAPP_URL = 'https://wa.me/22241757591'
+export const SUPPORT_WHATSAPP = ''
+export const SUPPORT_WHATSAPP_DISPLAY = '49 75 18 87'
+export const SUPPORT_WHATSAPP_URL = 'https://wa.me/22249751887'
 
 export const MAURITANIA_PHONE_REGEX = /^222[234678]\d{7}$/
 
